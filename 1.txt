@@ -1,0 +1,6 @@
+story 1:
+
+def home(request):
+	return(render,myapp/home.html)
+def register(request):
+	return(render,myapp/register.html)
