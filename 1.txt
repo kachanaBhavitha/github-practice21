@@ -1,0 +1,4 @@
+ story 1
+class story 1{
+	is incompleted create
+}
