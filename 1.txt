@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 story 1:
 
 def home(request):
 	return(render,myapp/home.html)
 def register(request):
 	return(render,myapp/register.html)
+=======
+ story 1
+class story 1{
+	is incompleted create
+}
+>>>>>>> f8af0afe6fabceeea296e6d5a1de66af4ec7b499
